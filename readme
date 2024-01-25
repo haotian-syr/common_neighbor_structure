@@ -1,3 +1,5 @@
 1. For clearness, we remove the parameter learning for supervised method.
 2. Experimental results show that supervised method does not clearly outpreform unsupervised one.
 3. We also create other selection of negative groups for interest. Only 'at least one common neighbor' was included in the paper.
+
+Hao Tian and Reza Zafarani. 2020. Exploiting Common Neighbor Graph for Link Prediction. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 3333–3336. https://doi.org/10.1145/3340531.3417464
